@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -39,3 +40,29 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 # pangasinan-heritage-tourism
 Pangasinan Website
 >>>>>>> d7f3b8c21bb2808e467cdf4acf586ef565ffb7f7
+=======
+# Pangasinan Heritage & Tourism Website
+
+## Project Title
+Pangasinan Heritage & Tourism Website
+
+## Student Name
+Delacruz, Gerald P.
+
+## Selected Framework
+Next.js with React and TypeScript
+
+## Live Website
+https://geralddelacruz082504-create.github.io/pangasinan-heritage-tourism/
+
+## Project Description
+A modern static tourism website that showcases the heritage, culture, natural beauty, and destinations of Pangasinan.
+
+## Features
+- Responsive and mobile-first design
+- Static Site Generation (SSG)
+- Reusable Atomic Design components
+- Tourism destinations showcase
+- Heritage and cultural information
+- GitHub Pages deployment
+>>>>>>> 2088c2ed6c9a565143a5a6b169bbad182ffb93f6
