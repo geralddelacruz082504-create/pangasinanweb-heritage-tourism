@@ -17,7 +17,11 @@ export const metadata: Metadata = {
   description: "A modern travel website celebrating the heritage and natural beauty of Pangasinan.",
 };
 
-export default function RootLayout({ children }: LayoutProps<"/">) {
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
   return (
     <html
       lang="en"

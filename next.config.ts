@@ -5,8 +5,6 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: "/pangasinan-heritage-tourism",
-  assetPrefix: "/pangasinan-heritage-tourism/",
 };
 
 export default nextConfig;
