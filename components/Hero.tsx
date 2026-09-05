@@ -17,7 +17,7 @@ export function Hero() {
           </div>
           <div className="relative z-10 flex justify-end lg:pb-4">
             <div className="w-full max-w-[430px] rotate-2 rounded-[26px] border-[10px] border-white/80 bg-white p-2 shadow-[0_25px_50px_rgba(24,54,77,0.35)] transition hover:rotate-0">
-              <div className="relative overflow-hidden rounded-[18px]"><img src="/image/hundred-island.jpg" alt="Hundred Islands in Pangasinan" className="aspect-[4/5] w-full object-cover" /><div className="absolute inset-x-4 bottom-4 rounded-2xl bg-[#17324d]/80 p-4 text-white backdrop-blur-sm"><div className="text-[0.55rem] uppercase tracking-[0.2em] text-[#f8c957]">Start here</div><div className="mt-1 font-serif text-2xl">Hundred Islands</div></div></div>
+              <div className="relative overflow-hidden rounded-[18px]"><img src="/pangasinanweb-heritage-tourism/image/hundred-island.jpg" alt="Hundred Islands in Pangasinan" className="aspect-[4/5] w-full object-cover" /><div className="absolute inset-x-4 bottom-4 rounded-2xl bg-[#17324d]/80 p-4 text-white backdrop-blur-sm"><div className="text-[0.55rem] uppercase tracking-[0.2em] text-[#f8c957]">Start here</div><div className="mt-1 font-serif text-2xl">Hundred Islands</div></div></div>
             </div>
           </div>
         </div>
