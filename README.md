@@ -9,7 +9,7 @@ Delacruz, Gerald P.
 ## Selected Framework
 Next.js with React and TypeScript
 
-## Live Website
+## [Live Website](https://geralddelacruz082504-create.github.io/pangasinanweb-heritage-tourism/)
 [Open the Pangasinan Heritage website](https://geralddelacruz082504-create.github.io/pangasinanweb-heritage-tourism/)
 
 ## Project Description
