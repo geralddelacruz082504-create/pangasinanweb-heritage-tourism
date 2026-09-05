@@ -10,7 +10,7 @@ Delacruz, Gerald P.
 Next.js with React and TypeScript
 
 ## Live Website
-https://geralddelacruz082504-create.github.io/pangasinanweb-heritage-tourism/
+[Open the Pangasinan Heritage website](https://geralddelacruz082504-create.github.io/pangasinanweb-heritage-tourism/)
 
 ## Project Description
 A modern static tourism website that showcases the heritage, culture, natural beauty, and destinations of Pangasinan.
